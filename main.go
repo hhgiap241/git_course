@@ -1,1 +1,1 @@
-func main(){nice work and dont know}
+func main(){nice work and dnt know}
